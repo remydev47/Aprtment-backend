@@ -1,0 +1,19 @@
+2022-06-29 11:23:16|576.5µs|404|GET|/api/autocomplete|127.0.0.1|/location=san-diego|0 B|9 B||
+2022-06-29 11:24:06|0s|404|GET|/api/autocomplete|127.0.0.1|/location=san-diego|0 B|9 B||
+2022-06-29 11:25:29|550.2µs|404|GET|/api/autocomplete|127.0.0.1|/location=san-diego|0 B|9 B||
+2022-06-29 11:26:46|2.2531441s|200|GET|/api/location/autocomplete|127.0.0.1|location=san-diego|0 B|6.7 KB||
+2022-06-29 11:30:59|11.6507984s|500|GET|/api/location/autocomplete|127.0.0.1|location=San Diego|0 B|93 B||
+2022-06-29 11:35:37|12.0205627s|500|GET|/api/location/autocomplete|127.0.0.1|limit=2 location=San Diego|0 B|93 B||
+2022-06-29 11:56:38|12.0187637s|500|GET|/api/location/autocomplete|127.0.0.1|limit=2 location=San Diego|0 B|93 B||
+2022-06-29 11:57:05|17.6937062s|200|GET|/api/location/autocomplete|127.0.0.1|limit=2 location=San Diego|0 B|1.1 KB||
+2022-06-29 11:58:59|10.2172299s|500|GET|/api/location/autocomplete|127.0.0.1|limit=2 location=San Diego|0 B|93 B||
+2022-06-29 11:59:48|13.0484051s|200|GET|/api/location/autocomplete|127.0.0.1|location=San Diego|0 B|6.7 KB||
+2022-06-29 12:04:35|5.835124s|200|GET|/api/location/autocomplete|127.0.0.1|location=Nairobi|0 B|5.3 KB||
+2022-06-29 12:04:56|927.6427ms|200|GET|/api/location/autocomplete|127.0.0.1|limit =2 location=Nairobi|0 B|5.3 KB||
+2022-06-29 12:12:12|13.6189506s|200|GET|/api/location/autocomplete|127.0.0.1|limit =2 location=Mombasa|0 B|4.5 KB||
+2022-06-29 12:14:41|30.2202972s|500|GET|/api/location/autocomplete|127.0.0.1|limit =2 location=san diego|0 B|93 B||
+2022-06-29 12:15:34|13.9586187s|200|GET|/api/location/autocomplete|127.0.0.1|limit=2 location=san diego|0 B|1.1 KB||
+2022-06-29 12:33:25|4.8160581s|200|GET|/api/location/search|127.0.0.1|location=san diego|0 B|4.5 KB||
+2022-07-01 15:02:41|2.2931337s|200|GET|/api/location/search|127.0.0.1|location=san diego|0 B|4.5 KB||
+2022-07-01 15:06:41|1.2902845s|200|GET|/api/location/search|127.0.0.1|location=nairobi|0 B|4.1 KB||
+2022-07-01 15:15:18|2.4207069s|200|GET|/api/location/search|127.0.0.1|location=mombasa|0 B|4.1 KB||
